@@ -11,7 +11,8 @@ def assembled_aoh
     DON_G,
     JOELLE_VD,
     PAT_M,
-    
+    KATE_G,
+    BRUCE_G
   ]
   
   # Build an array that contains (or, "nests") the constants into a single
